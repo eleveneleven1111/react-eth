@@ -171,8 +171,8 @@ async function run() {
   * For the example, it is assumed that app token exists on ore test network
   */
 
-// ore1qtwquaun -- OreId 1
-// ore1qrzltioj -- OreId 2
+// ore1qujd5na4 -- OreId 1
+// ore1qujdz1wf -- OreId 2
 
 if(appToken){
 
